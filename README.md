@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="assets/images/banner.png" alt="SEBHosting" width="100%">
+<p align="center">
+  <img src="assets/images/banner.png" alt="SEBHosting" width="100%">
+</p>
 
 # SEBHosting
 
