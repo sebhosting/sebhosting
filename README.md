@@ -9,6 +9,7 @@ Building software from architecture through production — and the infrastructur
 [Website](https://sebhosting.com) · [Facebook](https://facebook.com/sebzstudio) · [YouTube](https://www.youtube.com/@SEBzStudio) · [Twitch](https://twitch.tv/sebhosting) · [Email](mailto:info@sebhosting.com)
 
 ---
+**SEBHosting is a solo-built SaaS portfolio.** Everything is designed, developed, deployed, and runs end to end, on a three-node MicroK8s cluster that I manage personally. It has taken hard work, and serious dedication, to get to where it is currently. I stay committed to continuing its future.
 
 ## I Build the Product and the Systems Behind It
 
