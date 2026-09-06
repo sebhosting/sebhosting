@@ -243,9 +243,9 @@ Through **SEBzStudio**, I publish and stream development, infrastructure, AI eng
 
 The content is centered on actual engineering and production work: building systems, solving problems, integrating tools, tightening controls, operating environments, and showing what happens between an idea and a production-ready result.
 
-### Watch the build
+### Watch the builds live!
 
-**[SEBzStudio on YouTube →](https://www.youtube.com/@SEBzStudio)**  or  **[SEBHosting on Twitch →](https://twitch.tv/sebhosting)**
+**[SEBzStudio on YouTube →](https://www.youtube.com/@SEBzStudio)**   or   **[SEBHosting on Twitch →](https://twitch.tv/sebhosting)**
 
 ---
 
