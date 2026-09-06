@@ -1,4 +1,6 @@
-## SEBHosting
+## SEBHosting       ![Static Badge](https://img.shields.io/badge/github-sponsor-blue%3Flogo%3Dgithub?logo=github&color=blue&link=https%3A%2F%2Fgithub.com%2Fsponsors%2Fsebhosting)
+
+
 
 ### Software · Infrastructure · AI · Production
 
@@ -35,7 +37,7 @@ I build products, platforms, internal systems, development environments, infrast
 
 ---
 
-# Current Flagship Build
+# Current Flagship Build 
 
 ## SEBzStudio
 
