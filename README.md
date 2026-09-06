@@ -1,4 +1,4 @@
-# SEBHosting
+## SEBHosting
 
 ### Software · Infrastructure · AI · Production
 
@@ -6,7 +6,7 @@
 
 Building software from architecture through production — and the infrastructure, controls, automation, and operational systems required to run it properly.
 
-[Website](https://sebhosting.com) · [YouTube](https://www.youtube.com/@SEBzStudio) · [Twitch](https://twitch.tv/sebhosting) · [Email](mailto:info@sebhosting.com)
+[Website](https://sebhosting.com) · [Facebook](https://facebook.com/sebzstudio) · [YouTube](https://www.youtube.com/@SEBzStudio) · [Twitch](https://twitch.tv/sebhosting) · [Email](mailto:info@sebhosting.com)
 
 ---
 
