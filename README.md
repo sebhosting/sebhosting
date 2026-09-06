@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/images/banner.png" alt="SEBHosting" width="100%">
+
 # SEBHosting
 
 ### Software · Infrastructure · AI · Production
