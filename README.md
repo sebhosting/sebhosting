@@ -6,163 +6,279 @@
 
 **Founder · Full-Stack Developer · Infrastructure Engineer · Production Operator · Content Creator**
 
-> **Development is where production quality starts—not where shortcuts get excused.**
+Building software from architecture through production — and the infrastructure, controls, automation, and operational systems required to run it properly.
 
-<p>
-  <a href="https://sebhosting.com">
-    <img src="https://img.shields.io/badge/SEBHosting-Website-111111?style=for-the-badge" alt="SEBHosting Website">
-  </a>
-  <a href="https://www.youtube.com/@SEBzStudio">
-    <img src="https://img.shields.io/badge/SEBzStudio-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="SEBzStudio YouTube">
-  </a>
-  <a href="mailto:info@sebhosting.com">
-    <img src="https://img.shields.io/badge/Contact-Email-333333?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email">
-  </a>
-</p>
+[SEBHosting](https://sebhosting.com) · [SEBzStudio](https://www.youtube.com/@SEBzStudio) · [info@sebhosting.com](mailto:info@sebhosting.com)
 
 </div>
 
 ---
 
-## About
+## I Build the Product and the Systems Behind It
 
-I build software products and the systems behind them—from application architecture and infrastructure to security, deployment, automation, observability, and production operations.
+I work across the full production path: application architecture, development, infrastructure, security, automation, deployment, observability, live operations, and operator tooling.
 
-My work combines **full-stack development, infrastructure engineering, AI-assisted engineering, security, automation, live production, and operator-controlled systems**.
+That means I am not only interested in whether software works in a development environment. I care about what happens after it leaves the editor — how it is deployed, what it is allowed to access, how its state is observed, how failures are contained, how releases are controlled, how operators retain authority, and how the entire system behaves under real production conditions.
 
-I design the application, build the infrastructure, secure the boundaries, ship the release, and operate the result.
+My work sits at the intersection of:
+
+- **Full-stack software development**
+- **Infrastructure and production engineering**
+- **Security and operational controls**
+- **AI-assisted engineering and orchestration**
+- **Automation and deployment systems**
+- **Observability and real operational state**
+- **Live production and broadcast tooling**
+- **Founder-led product development**
+- **Technical content and live build sessions**
+
+I build products, platforms, internal systems, development environments, infrastructure controls, security tooling, AI workflows, and production operations around one core idea:
+
+> **Development is where production quality starts—not where shortcuts get excused.**
 
 ---
 
-## Building Now
+# Current Flagship Build
 
-### SEBzStudio
+## SEBzStudio
 
 **Human command + AI collaboration + isolated execution + live production.**
 
-SEBzStudio is a human-operated multi-AI engineering, production, and broadcast environment combining:
+SEBzStudio is a human-operated multi-AI engineering, production, and broadcast environment built around controlled execution and operator authority.
 
-- AI collaboration and orchestration
-- Isolated development environments
-- Operator-controlled terminals
-- OBS production control
-- Broadcast relays
-- Moderation and recording
-- Event operations
-- Production-grade operator tooling
+It brings together AI collaboration, isolated development environments, operator-controlled terminals, production tooling, OBS integration, broadcast relays, moderation, recording, and live event operations inside one working system.
 
-The goal is simple: **clear operator authority, observable state, controlled automation, and explicit production boundaries.**
+The goal is not to hand control of the environment to automation.
 
----
+The goal is to make automation useful **inside explicit boundaries** while keeping the operator in control of execution, state, releases, infrastructure, and production decisions.
 
-## Product Portfolio
+SEBzStudio is where several parts of my work converge:
 
-| Project | Focus |
-| --- | --- |
-| **SEBzStudio** | Multi-AI engineering, production, broadcasting, and operator control |
-| **NeXuS** | Infrastructure and operational control plane |
-| **SEBDesk** | Operator-focused development and production workspace |
-| **VaultPilot** | Security and infrastructure tooling |
-| **SecurityPilot** | Security automation and operational controls |
-| **UpdatePilot** | Controlled software lifecycle automation |
-| **SEBai** | AI systems and application development |
-| **Realty Hunter** | Real estate search and analysis platform |
-| **Boston Championship Spades** | Multiplayer competitive card platform |
+**Engineering**  
+Application development, terminals, orchestration, service integration, environment isolation, internal tooling, and operator workflows.
+
+**AI Systems**  
+Multiple AI systems working within defined roles, permissions, tools, and execution boundaries.
+
+**Infrastructure**  
+Local and remote environments, service routing, containers, networking, deployment paths, observability, and operational control.
+
+**Production**  
+OBS control, broadcast workflows, relay systems, moderation, recording, live operations, and event tooling.
+
+**Security**  
+Explicit access boundaries, least privilege, controlled execution, fail-closed behavior, signed source, and operator-controlled release paths.
+
+SEBzStudio is not just an application. It is an operating environment for building, running, observing, and producing software with humans and AI working inside one controlled system.
 
 ---
 
-## Engineering Stack
+# Product Portfolio
 
-### Application
+## NeXuS
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-</p>
+**Infrastructure and operational control plane.**
 
-### Infrastructure & Production
+NeXuS is focused on the systems that sit underneath production: infrastructure state, operational control, service coordination, visibility, and the mechanisms required to manage real environments deliberately instead of treating infrastructure as an invisible background layer.
 
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx">
-  <img src="https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white" alt="Traefik">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">
-</p>
+---
+
+## SEBDesk
+
+**Operator-focused development and production workspace.**
+
+SEBDesk is a purpose-built environment for development, operations, and production work — designed around the needs of the operator rather than the assumptions of a generic desktop workflow.
+
+---
+
+## VaultPilot
+
+**Security and infrastructure tooling.**
+
+VaultPilot focuses on controlled access, infrastructure protection, operational boundaries, and tooling that supports secure system administration.
+
+---
+
+## SecurityPilot
+
+**Security automation and operational controls.**
+
+SecurityPilot is centered on explicit security decisions, controlled automation, monitoring, enforcement, and production-safe operational behavior.
+
+---
+
+## UpdatePilot
+
+**Controlled software lifecycle automation.**
+
+UpdatePilot is built around the idea that updates should be deliberate, observable, testable, and reversible — not an uncontrolled background process.
+
+---
+
+## SEBai
+
+**AI systems and application development.**
+
+SEBai covers AI-assisted engineering, application development, orchestration, AI workflows, and the practical integration of AI systems into real development and production environments.
+
+---
+
+## Realty Hunter
+
+**Real estate search and analysis platform.**
+
+A product focused on improving real estate discovery and analysis through purpose-built search and decision-support workflows.
+
+---
+
+## Boston Championship Spades
+
+**Multiplayer competitive card platform.**
+
+A competitive multiplayer card platform built around the game of Spades, online play, and a focused product experience.
+
+---
+
+# Engineering Scope
+
+I work across application code, systems engineering, infrastructure, security, operations, and production rather than treating them as unrelated disciplines.
+
+### Application Development
+
+`TypeScript` · `Node.js` · `React` · `Next.js` · `PostgreSQL`
+
+Architecture, APIs, application logic, interfaces, services, data models, internal tooling, and end-to-end product development.
+
+### Infrastructure
+
+`Linux` · `Docker` · `Kubernetes` · `Nginx` · `Traefik` · `Cloudflare`
+
+Containerized services, networking, routing, reverse proxies, environment isolation, infrastructure configuration, deployment architecture, and production systems.
 
 ### Engineering Operations
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/CI%2FCD-111111?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD">
-  <img src="https://img.shields.io/badge/Observability-111111?style=flat-square" alt="Observability">
-  <img src="https://img.shields.io/badge/Security-111111?style=flat-square" alt="Security">
-</p>
+`Git` · `CI/CD` · `Observability` · `Security` · `Production Operations`
+
+Source control, release workflows, deployment controls, telemetry, operational state, rollback planning, production verification, and system ownership after deployment.
 
 ### AI Engineering
 
-<p>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square" alt="Claude">
-  <img src="https://img.shields.io/badge/Codex-111111?style=flat-square&logo=openai&logoColor=white" alt="Codex">
-  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT">
-  <img src="https://img.shields.io/badge/AI_Orchestration-111111?style=flat-square" alt="AI Orchestration">
-</p>
+`Claude` · `Codex` · `ChatGPT` · `AI Orchestration`
+
+AI-assisted development, multi-model workflows, operator-controlled AI collaboration, role separation, tooling boundaries, orchestration, and controlled execution.
 
 ---
 
-## Production Philosophy
+# Production Engineering
 
-<div align="center">
+A working feature is not the finish line.
+
+Production engineering means deciding how a system behaves when something goes wrong, what it can access, who or what is allowed to change it, how releases are verified, how failures are surfaced, and how the operator recovers without guessing.
+
+The principles I build around are intentionally strict:
 
 ### Allow → Constrain → Test → Deny Everything Else
 
-</div>
+**Threat model first**  
+Understand what can fail, what can be abused, what is exposed, and what the actual trust boundaries are before designing controls.
 
-- **Threat model first**
-- Least privilege
-- Explicit allowlists and boundaries
-- Fail closed
-- Isolated execution
-- Signed source and releases
-- Immutable production artifacts
-- Real telemetry over simulated state
-- Rollback before rollout
-- Operator authority over automation
+**Least privilege**  
+Processes, services, users, automation, and AI systems should receive only the authority required for the task.
 
-Production controls are designed into the system from the beginning—not bolted on after deployment.
+**Explicit allowlists**  
+Access is granted intentionally. Unknown behavior is not treated as acceptable behavior.
+
+**Fail closed**  
+When state is uncertain, the safer default wins.
+
+**Isolated execution**  
+Development tools, AI systems, services, and operational workflows should be constrained to the environments and resources they actually need.
+
+**Signed source and releases**  
+The path from source to production should have clear authorship, integrity, and release authority.
+
+**Immutable production artifacts**  
+Production should run known artifacts rather than quietly mutating underneath the operator.
+
+**Real telemetry over simulated state**  
+Operational decisions should come from observable system state, not assumptions about what probably happened.
+
+**Rollback before rollout**  
+A release plan is incomplete until the recovery path is understood.
+
+**Operator authority over automation**  
+Automation exists to extend the operator — not replace the operator's control over production.
 
 ---
 
-## Build Sessions & Content
+# How I Approach Development
 
-I share development, infrastructure, AI engineering, production workflows, and live build sessions through **SEBzStudio**.
+I do not separate “development quality” from “production quality.”
 
-<p align="left">
-  <a href="https://www.youtube.com/@SEBzStudio">
-    <img src="https://img.shields.io/badge/WATCH_SEBzStudio-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch SEBzStudio on YouTube">
-  </a>
-</p>
+The decisions made during development determine whether a system can later be secured, deployed, observed, maintained, and recovered cleanly.
 
-**Build it. Secure it. Ship it. Operate it.**
+That changes how I build.
+
+I prefer explicit behavior over hidden magic, narrow permissions over broad access, observable systems over optimistic assumptions, and controlled automation over convenience that removes accountability.
+
+The goal is not to make systems complicated.
+
+The goal is to make important behavior **intentional**.
 
 ---
 
-## Connect
+# Founder + Builder
 
-- **Web:** [sebhosting.com](https://sebhosting.com)
-- **YouTube:** [SEBzStudio](https://www.youtube.com/@SEBzStudio)
-- **Email:** [info@sebhosting.com](mailto:info@sebhosting.com)
+I am interested in building complete products, not isolated code samples.
+
+That means product direction, architecture, implementation, infrastructure, security, deployment, production operations, and the experience of the person actually operating the system all matter.
+
+The same mindset applies whether I am building an application, infrastructure control plane, security tool, AI workflow, production environment, or live broadcast system:
+
+**Understand the real problem. Design the boundaries. Build the system. Test the failure modes. Operate what ships.**
+
+---
+
+# Content & Build Sessions
+
+I also document the work.
+
+Through **SEBzStudio**, I publish and stream development, infrastructure, AI engineering, production workflows, system design, and live build sessions.
+
+The content is centered on actual engineering and production work: building systems, solving problems, integrating tools, tightening controls, operating environments, and showing what happens between an idea and a production-ready result.
+
+### Watch the build
+
+**[SEBzStudio on YouTube →](https://www.youtube.com/@SEBzStudio)**
+
+---
+
+# What I Care About
+
+Software should be understandable by the people responsible for operating it.
+
+Infrastructure should expose real state.
+
+Automation should have boundaries.
+
+Security should be part of architecture, not a final checklist.
+
+AI should operate inside deliberate constraints.
+
+Deployments should be reversible.
+
+Operators should retain authority.
+
+And production quality should start long before production.
 
 ---
 
 <div align="center">
 
+## Build it. Secure it. Ship it. Operate it.
+
 **SEBHosting**
 
-*Software · Infrastructure · AI · Production*
+[sebhosting.com](https://sebhosting.com) · [SEBzStudio](https://www.youtube.com/@SEBzStudio) · [info@sebhosting.com](mailto:info@sebhosting.com)
 
 </div>
