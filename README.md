@@ -1,6 +1,6 @@
 <h1>
   SEBHosting
-  <a href="https://github.com/sponsors/sebhosting" target="_blank">
+  <a href="https://github.com/sponsors/sebhosting" target="_blank" rel="noopener noreferrer">
     <img
       align="right"
       src="https://img.shields.io/badge/github-sponsor-blue?logo=github&color=blue"
