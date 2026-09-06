@@ -1,5 +1,3 @@
-<div align="center">
-
 # SEBHosting
 
 ### Software · Infrastructure · AI · Production
@@ -8,9 +6,7 @@
 
 Building software from architecture through production — and the infrastructure, controls, automation, and operational systems required to run it properly.
 
-[SEBHosting](https://sebhosting.com) · [SEBzStudio](https://www.youtube.com/@SEBzStudio) · [info@sebhosting.com](mailto:info@sebhosting.com)
-
-</div>
+[Website](https://sebhosting.com) · [YouTube](https://www.youtube.com/@SEBzStudio) · [Twitch](https://twitch.tv/sebhosting) · [Email](mailto:info@sebhosting.com)
 
 ---
 
@@ -34,7 +30,7 @@ My work sits at the intersection of:
 
 I build products, platforms, internal systems, development environments, infrastructure controls, security tooling, AI workflows, and production operations around one core idea:
 
-> **Development is where production quality starts—not where shortcuts get excused.**
+**Development is where production quality starts—not where shortcuts get excused.**
 
 ---
 
@@ -273,12 +269,8 @@ And production quality should start long before production.
 
 ---
 
-<div align="center">
-
 ## Build it. Secure it. Ship it. Operate it.
 
 **SEBHosting**
 
-[sebhosting.com](https://sebhosting.com) · [SEBzStudio](https://www.youtube.com/@SEBzStudio) · [info@sebhosting.com](mailto:info@sebhosting.com)
-
-</div>
+[Website](https://sebhosting.com) · [YouTube](https://www.youtube.com/@SEBzStudio) · [Twitch](https://twitch.tv/sebhosting) · [Email](mailto:info@sebhosting.com)
