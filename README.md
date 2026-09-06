@@ -245,7 +245,7 @@ The content is centered on actual engineering and production work: building syst
 
 ### Watch the build
 
-**[SEBzStudio on YouTube →](https://www.youtube.com/@SEBzStudio)**
+**[SEBzStudio on YouTube →](https://www.youtube.com/@SEBzStudio)**  or  **[SEBHosting on Twitch →](https://twitch.tv/sebhosting)**
 
 ---
 
