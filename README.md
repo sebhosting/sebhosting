@@ -1,6 +1,13 @@
-## SEBHosting       ![Static Badge](https://img.shields.io/badge/github-sponsor-blue%3Flogo%3Dgithub?logo=github&color=blue&link=https%3A%2F%2Fgithub.com%2Fsponsors%2Fsebhosting)
-
-
+<h1>
+  SEBHosting
+  <a href="https://github.com/sponsors/sebhosting">
+    <img
+      align="right"
+      src="https://img.shields.io/badge/github-sponsor-blue?logo=github&color=blue"
+      alt="Sponsor SEBHosting"
+    >
+  </a>
+</h1>
 
 ### Software · Infrastructure · AI · Production
 
